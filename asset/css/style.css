@@ -101,6 +101,38 @@ footer>nav>ul>li{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+.hori{
+    border-bottom: solid black 4px;
+    clear: left;
+}
+.rain{
+    font-size: 20px;
+    border-top: solid black 2px;
+    border-bottom: solid black 2px;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .row{
+      border-top: black solid 2px;
+      border-bottom: black solid 2px;
+  }
+  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+  @media screen and (max-width:760px) {
+     .column {
+      width: 100%;
+    } 
+    
+  }
 input[type='text'], select {
     width: 100%;
     padding: 12px 20px;
