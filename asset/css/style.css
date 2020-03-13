@@ -33,7 +33,15 @@ nav a{
 nav a:hover{
     background-color: grey;
 }
-
+.profile{
+    width: 80%;
+    height: 70%;
+    border-radius: 50%;
+}
+.hori{
+    border-bottom: solid black 4px;
+    clear: left;
+}
 
 .blog{
     margin-left: 50px;
@@ -83,7 +91,7 @@ div>img{
     width: 40%;
     float: left;
     margin-left: 30px;
-    margin-top: 50px;
+    margin-top: 5px;
 
 }
 div{
@@ -227,5 +235,30 @@ input[type='text'], select {
   .footer h4{
       color: black;
   }
+  .wrapper1 {
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+}
+
+.container1 {
+    display: flex;
+    margin: 2%;
+    border-top: 1px lightgray solid;
+    border-bottom: 1px lightgray solid;
+    padding: 10px;
+    justify-content: center;
+}
+
+.Introduction h1{
+    margin-top: 100px;
+    border-top: solid 2px white;
+    border-bottom: 2px white solid;
+}
+
+.blog{
+    margin-left: 50px;
+    width: 96%;
+}
   
  
