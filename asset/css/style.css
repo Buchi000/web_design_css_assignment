@@ -260,5 +260,79 @@ input[type='text'], select {
     margin-left: 50px;
     width: 96%;
 }
+.Q_one{
+    margin-top: 120px;
+  }
+  .Q_one a{
+      text-decoration: none;
+      color: black;
+      font-size: 20px;
+      background-color: blanchedalmond;
+     
+      
+  }
+  .Q_one :hover{
+    background-color: grey;  
+}
+.flag{
+    border: blanchedalmond 1px solid;
+    border-radius: 100px;
+    max-width: 300px;
+    height: 200px;
+    
+}
+#pa{
+    position: relative;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.Q_two{
+    margin-top: 120px; 
+}
+.Q_two a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    background-color: blanchedalmond;
+ 
+}
+.Q_two :hover{
+    background-color: grey;  
+}
+.page{
+    border: blanchedalmond 1px solid;
+    border-radius: 100px;
+    max-width: 300px;
+    height: 200px;
+}
+#ge{
+    position: relative;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.Q_three{
+    margin-top: 120px; 
+}
+.Q_three a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    background-color: blanchedalmond;
+ 
+}
+.Q_three :hover{
+    background-color: grey;  
+}
+.th{
+    border: blanchedalmond 1px solid;
+    border-radius: 100px;
+    max-width: 300px;
+    height: 200px;
+}
+#Three{
+    position: relative;
+    margin-left: 80px;
+    margin-top: 80px;
+}
   
  
