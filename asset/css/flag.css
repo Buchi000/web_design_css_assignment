@@ -1,0 +1,354 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: pink;
+}
+header{
+    width: 100%;
+    margin: 0 auto;
+    margin-left: 0px;
+   
+}
+nav{
+    background-color: rgba(48, 11, 11, 0.5);
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+nav li{
+    flex: 1 1 0;
+}
+nav a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    display: block;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: grey;
+}
+
+.eth{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin: 10px; 
+}
+.green{
+    height: 100px;
+    background-color: green;
+    
+}
+.yellow{
+    height: 100px;
+    background-color: yellow;
+}
+.red{
+    height: 100px;
+    background-color: red;
+}
+.ethi img{
+    width: 100px;
+    height: 100px;
+    margin-left: 140px;
+}
+.egy img{
+    width: 100px;
+    height: 100px;
+    margin-left: 140px;
+}
+.bangladish{
+    width: 30%;
+    height: 300px;
+    
+    padding: 10px;
+    float: left;
+    margin: 10px;
+}
+.B_green{
+    height: 100px;
+    background-color: green;
+}
+/* .ban{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    
+
+} */
+.B_red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 100px;
+    margin-left: 100px;
+} 
+.Egypt{
+     width: 30%;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+    
+}
+.E_red{
+    height: 100px;
+    background-color: red;
+    
+}
+.white{
+    height: 100px;
+    background-color: white;
+}
+.black{
+    height: 100px;
+    background-color: black;
+}
+.third{
+    width: 100%;
+    max-width: 96opx;
+    margin: 10px;
+    margin-bottom: 0;
+    
+}
+.containerB{
+    display: flex;
+    margin: 10px;
+     float: left;
+     border: solid 1px gray;
+    
+}
+.greenb{
+    background-color: green;
+}
+.white{
+    background-color: white;
+}
+
+.second{
+    width: 100%;
+    max-width: 96opx;
+    margin: 10px;  
+}
+.container{
+    display: flex;
+    margin: 10px;
+     float: left;
+     border: solid 1px gray;
+}
+
+
+.box{
+    height: 300px;
+    min-width: 136px;
+}
+.browna{
+    background-color: #F77F00;
+}
+.whitea{
+    background-color: white;
+}
+.greena{
+    background-color: green;
+}
+.c{
+    background-color: white;
+}
+.new{
+    clear: left;
+}
+.Eritrea{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+}
+.ert_green{
+    height: 90px;
+    width: 100%;
+    background-color: green;
+    clip-path: polygon(0 0, 100% 0, 100% 0, 100% 100%);
+    transform: skewY();
+}
+
+.ert_red{
+    height: 90px;
+    width: 100%;
+    background-color: #BC1D00;
+    clip-path: polygon(100% 100%, 0 100%,0 100%, 0 0);
+    position: relative;
+    bottom: 90px;
+}
+
+.ert_red1{
+    height: 90px;
+    width: 100%;
+    background-color: #BC1D00;
+    clip-path: polygon(0 100%, 100% 0, 100% 0, 0 0);
+    position: relative;
+    bottom:90px;
+}
+
+.ert_blue{
+    height: 90px;
+    width: 100%;
+    background-color: blue;
+    clip-path: polygon(0 100%, 0 100%, 100% 100%, 100% 0);
+    position: relative;
+    bottom: 180px;
+}
+.togo{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+}
+.t_green{
+    height: 60px;
+    background-color: green;
+}
+.t_yellow{
+    height: 60px;
+background-color: yellow;
+}
+.Israel{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+    border: solid 1px gray;
+}
+.i_white{
+    height: 35px;
+    background-color: white;
+}
+.i_blue{
+    height:35px;
+background-color: blue;
+}
+.i_whitea{
+    height: 155px;
+    background-color: white;
+}
+.forth{
+    width: 100%;
+    max-width: 96opx;
+      
+    margin-right: 0;
+}
+.Saint_Vincent_and_the_Grenadines{
+    display: flex;
+    margin: 10px;
+     float: left;
+     
+     
+}
+.Sblue{
+    background-color: blue;
+    flex-grow: 1;
+}
+.Syellow{
+    background-color: yellow;
+    flex-grow: 2;
+}
+.Sgreen{
+    background-color: green;
+}
+.Lesotho{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+}
+.Lblue{
+    background-color: blue;
+    height: 60px;
+}
+.Lwhite{
+    background-color: white;
+    height: 140px;
+}
+.Lgreen{
+    background-color: green;
+    height: 60px;
+}
+.USA{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin-left: 10px;
+}
+.ured{
+    background-color: red;
+    height: 20px;
+}
+.uwhite{
+    background-color:white;
+    height: 20px;
+}
+.Botswana{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin-left: 10px;
+}
+.Wblue{
+    background-color: deepskyblue;
+    height: 120px;
+}
+.whitea{
+    background-color: white;
+    height: 5px;
+}
+.Bblack{
+    background-color: black;
+    height:50px;
+}
+.ert img{
+    margin-left: 20px;
+    
+    width: 120px;
+    height: 90px;
+   
+    margin-bottom: 40px;
+}
+.to img{
+    width: 150px;
+    height: 180px;
+}
+.isr img{
+    width: 150px;
+    height: 140px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+.les img{
+    width: 100px;
+    height: 100px;
+    margin-left: 140px;
+    margin-top: 18px; 
+}
+.saint img{
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+.usa img{
+    width: 140px;
+    height: 140px;
+    margin-left: 0;
+}
