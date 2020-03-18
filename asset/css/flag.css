@@ -118,7 +118,13 @@ nav a:hover{
     margin-bottom: 0;
     
 }
-
+.containerB{
+    display: flex;
+    margin: 10px;
+     float: left;
+     border: solid 1px gray;
+    
+}
 .greenb{
     background-color: green;
 }
@@ -214,7 +220,26 @@ nav a:hover{
     height: 60px;
 background-color: yellow;
 }
-
+.Israel{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+    border: solid 1px gray;
+}
+.i_white{
+    height: 35px;
+    background-color: white;
+}
+.i_blue{
+    height:35px;
+background-color: blue;
+}
+.i_whitea{
+    height: 155px;
+    background-color: white;
+}
 .forth{
     width: 100%;
     max-width: 96opx;
@@ -239,7 +264,47 @@ background-color: yellow;
 .Sgreen{
     background-color: green;
 }
-
+.Lesotho{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+}
+.Lblue{
+    background-color: blue;
+    height: 77px;
+}
+.Lwhite{
+    background-color: white;
+    height: 140px;
+}
+.Lgreen{
+    background-color: green;
+    height: 77px;
+}
+.USA{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin-left: 10px;
+}
+.ured{
+    background-color: red;
+    height: 20px;
+}
+.uwhite{
+    background-color:white;
+    height: 20px;
+}
+.Botswana{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    float: left;
+    margin-left: 10px;
+}
 .Wblue{
     background-color: deepskyblue;
     height: 120px;
