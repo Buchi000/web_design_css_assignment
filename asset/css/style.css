@@ -219,7 +219,11 @@ input[type='text'], select {
  .footer h3{
      text-transform: lowercase;
  }
- 
+ h1{
+    text-align: center;
+    margin-top: 50px;
+    border-bottom: white 2px solid;
+}
     
   .footer1{
       clear: left;
