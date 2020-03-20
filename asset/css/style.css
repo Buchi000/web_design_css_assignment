@@ -338,5 +338,8 @@ input[type='text'], select {
     margin-left: 80px;
     margin-top: 80px;
 }
+div>section>article>p{
+    padding: 10px;
+}
   
  
